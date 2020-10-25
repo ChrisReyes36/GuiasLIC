@@ -3,6 +3,7 @@ import ProtoTypes from 'prop-types';
 
 class Card extends Component {
     render() {
+        
         return (
             <div class="card col-sm-4">
                 <h5 class="card-header"> {this.props.MarcaProducto} </h5>
