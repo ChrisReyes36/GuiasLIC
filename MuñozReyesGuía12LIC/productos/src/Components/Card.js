@@ -2,9 +2,6 @@ import React, { Component } from 'react';
 import ProtoTypes from 'prop-types';
 
 class Card extends Component {
-    constructor(props) {
-        super(props);
-    }
     render() {
         return (
             <div class="card col-sm-4">
